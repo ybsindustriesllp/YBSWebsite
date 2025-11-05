@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "founder1",
+      "description": "Portrait of Banda Shravan Kumar",
+      "imageUrl": "https://www.ybsindustriesllp.com/shravan.jpg",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "founder2",
+      "description": "Portrait of Yasam Ganesh Chand",
+      "imageUrl": "https://www.ybsindustriesllp.com/ganesh.jpg",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "services-defense-ai",
+      "description": "Abstract AI in defense context",
+      "imageUrl": "https://images.unsplash.com/photo-1727600950837-99b09c908deb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhaSUyMGRlZmVuc2V8ZW58MHx8fHwxNzYxMTU2MjExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ai defense"
+    },
+    {
+      "id": "services-iot-robotics",
+      "description": "Robotics and IoT",
+      "imageUrl": "https://images.unsplash.com/photo-1634910409614-71a507e13588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aW90JTIwcm9ib3RpY3N8ZW58MHx8fHwxNzYxMTU2MjExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "iot robotics"
+    },
+    {
+      "id": "services-renewable-energy",
+      "description": "Renewable energy sources",
+      "imageUrl": "https://images.unsplash.com/photo-1632103996718-4a47cf68b75e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyZW5ld2FibGUlMjBlbmVyZ3l8ZW58MHx8fHwxNzYxMTE3MTM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "renewable energy"
+    },
+    {
+      "id": "services-waste-management",
+      "description": "Waste recycling plant",
+      "imageUrl": "https://images.unsplash.com/photo-1591193686104-fddba4d0e4d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3YXN0ZSUyMHJlY3ljbGluZ3xlbnwwfHx8fDE3NjExNTYyMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "waste recycling"
+    },
+    {
+      "id": "services-agritech",
+      "description": "Technology in agriculture",
+      "imageUrl": "https://images.unsplash.com/photo-1760299092548-f6c6c867cc2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhZ3JpdGVjaCUyMGlubm92YXRpb258ZW58MHx8fHwxNzYxMTU2MjExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "agritech innovation"
+    },
+    {
+      "id": "services-food-dev",
+      "description": "Food science research",
+      "imageUrl": "https://images.unsplash.com/photo-1675774644241-e7f62dbbb0a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmb29kJTIwcmVzZWFyY2h8ZW58MHx8fHwxNzYxMTU2MjExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food research"
+    },
+    {
+      "id": "services-product-dev",
+      "description": "Product development lifecycle",
+      "imageUrl": "https://images.unsplash.com/photo-1518349619113-03114f06ac3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cHJvZHVjdCUyMGRldmVsb3BtZW50fGVufDB8fHx8MTc2MTE1NjIxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "product development"
+    },
+    {
+      "id": "services-branding-d2c",
+      "description": "Direct to consumer branding",
+      "imageUrl": "https://images.unsplash.com/photo-1628893849091-a76c690e8b80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkMmMlMjBicmFuZGluZ3xlbnwwfHx8fDE3NjExNTYyMTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "d2c branding"
+    },
+    {
+      "id": "services-training-dev",
+      "description": "Rural development training",
+      "imageUrl": "https://images.unsplash.com/photo-1759821673382-4ecbc013858d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxydXJhbCUyMGRldmVsb3BtZW50fGVufDB8fHx8MTc2MTE1NjIxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rural development"
+    }
+  ]
+}
